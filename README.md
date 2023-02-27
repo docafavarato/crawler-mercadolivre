@@ -1,8 +1,11 @@
-# crawler-mercadolivre
+# Crawler Mercado Livre
 
-Web-Crawler do Mercado Livre. Funções:
-- Procura links aleatoriamente no mercado livre
-- Salva o link com Nome, descrição, preço e URL
-- Não salva links que já foram visitados
+## About
+> A web-crawler of the brazilian website "Mercado Livre"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docafavarato)](https://github.com/anuraghazra/github-readme-stats)
+## Functions
+> This script searches for random products and save them in a SQL database
+
+> It can save the name, description, price and URL of the product
+
+
